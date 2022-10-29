@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/gwencoding/order-summary-component]
-- Live Site URL: [https://order-summary-component-gc.netlify.app/]
+- Live Site URL: [https://order-summary-component-gc.netlify.app]
 
 ## My process
 
