@@ -46,10 +46,14 @@ font-size: 16px;
   text-align: center;
 }
 
-.tittle{
+.title{
   color:hsl(223, 47%, 23%);
   font-weight:900;
   margin-bottom: 20px;
+}
+
+.price-content{
+  font-size: 1rem;
 }
 
 .text-content p.subtitle {
